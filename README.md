@@ -8,6 +8,13 @@ O produto final é um sistema analítico que permite explorar dados sobre perfis
 
 Este projeto diferencia-se por aplicar conceitos estatísticos combinados com visualizações interativas e modelos preditivos, oferecendo uma ferramenta acessível e poderosa para análise de desempenho no setor hoteleiro.
 
+## Integrantes do Grupo
+
+- André Lucas Ferreira
+- Leonardo Rodrigues
+- Nickolas Machado
+- Odirlei Lima
+
 ## Por que implementar isto?
 
 A implementação deste projeto visa atender a uma necessidade crescente do mercado hoteleiro: **tomada de decisão orientada por dados**. Em um setor altamente competitivo, onde pequenas variações na demanda impactam diretamente a receita, compreender os padrões de consumo e o perfil dos hóspedes torna-se fundamental.
