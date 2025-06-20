@@ -94,4 +94,5 @@ O projeto deve ser executável em qualquer máquina com Python instalado, sem ne
 ---
 
 ## Como utilizar
-Para utilizar os scripts, basta acessar o site Google Colab[https://colab.google]
+
+Para utilizar os scripts, basta acessar o site [Google Colab](https://colab.google), baixar o arquivo `Projeto_final_CD.ipynb` e abri-lo a partir do Google Colab. Os scripts estão separados por textos com os títulos das respectivas abordagens estatísticas que estão sendo utilizadas pelo script relacionado.
